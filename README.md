@@ -1,4 +1,4 @@
-## Do it! 점프 투 파이썬
+## Do it! 점프 투 파이썬 #3776AB
 ### "Life is too short, You need Python"
 | Day | title | Date |
 |-----|-------|------|
